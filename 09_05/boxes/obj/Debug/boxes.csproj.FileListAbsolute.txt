@@ -1,0 +1,10 @@
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\bin\Debug\boxes.exe.config
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\bin\Debug\boxes.exe
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\bin\Debug\boxes.pdb
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\obj\Debug\boxes.csprojAssemblyReference.cache
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\obj\Debug\boxes.Form.resources
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\obj\Debug\boxes.Properties.Resources.resources
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\obj\Debug\boxes.csproj.GenerateResource.cache
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\obj\Debug\boxes.csproj.CoreCompileInputs.cache
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\obj\Debug\boxes.exe
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\obj\Debug\boxes.pdb

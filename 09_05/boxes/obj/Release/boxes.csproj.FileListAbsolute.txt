@@ -1,0 +1,29 @@
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\bin\Release\boxes.exe.config
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\bin\Release\boxes.exe
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\bin\Release\boxes.pdb
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\obj\Release\boxes.Form.resources
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\obj\Release\boxes.Properties.Resources.resources
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\obj\Release\boxes.csproj.GenerateResource.cache
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\obj\Release\boxes.csproj.CoreCompileInputs.cache
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\obj\Release\boxes.exe
+C:\Users\mdim\OneDrive\Документы\projects\09_05\boxes\obj\Release\boxes.pdb
+C:\Users\mdim\OneDrive - Dnipro Lyceum of Informational Technology\Документи\projects\09_05\boxes\bin\Release\boxes.exe.config
+C:\Users\mdim\OneDrive - Dnipro Lyceum of Informational Technology\Документи\projects\09_05\boxes\bin\Release\boxes.exe
+C:\Users\mdim\OneDrive - Dnipro Lyceum of Informational Technology\Документи\projects\09_05\boxes\bin\Release\boxes.pdb
+C:\Users\mdim\OneDrive - Dnipro Lyceum of Informational Technology\Документи\projects\09_05\boxes\obj\Release\boxes.csprojAssemblyReference.cache
+C:\Users\mdim\OneDrive - Dnipro Lyceum of Informational Technology\Документи\projects\09_05\boxes\obj\Release\boxes.Form.resources
+C:\Users\mdim\OneDrive - Dnipro Lyceum of Informational Technology\Документи\projects\09_05\boxes\obj\Release\boxes.Properties.Resources.resources
+C:\Users\mdim\OneDrive - Dnipro Lyceum of Informational Technology\Документи\projects\09_05\boxes\obj\Release\boxes.csproj.GenerateResource.cache
+C:\Users\mdim\OneDrive - Dnipro Lyceum of Informational Technology\Документи\projects\09_05\boxes\obj\Release\boxes.csproj.CoreCompileInputs.cache
+C:\Users\mdim\OneDrive - Dnipro Lyceum of Informational Technology\Документи\projects\09_05\boxes\obj\Release\boxes.exe
+C:\Users\mdim\OneDrive - Dnipro Lyceum of Informational Technology\Документи\projects\09_05\boxes\obj\Release\boxes.pdb
+E:\projects\09_05\boxes\bin\Release\boxes.exe.config
+E:\projects\09_05\boxes\bin\Release\boxes.exe
+E:\projects\09_05\boxes\bin\Release\boxes.pdb
+E:\projects\09_05\boxes\obj\Release\boxes.csprojAssemblyReference.cache
+E:\projects\09_05\boxes\obj\Release\boxes.Form.resources
+E:\projects\09_05\boxes\obj\Release\boxes.Properties.Resources.resources
+E:\projects\09_05\boxes\obj\Release\boxes.csproj.GenerateResource.cache
+E:\projects\09_05\boxes\obj\Release\boxes.csproj.CoreCompileInputs.cache
+E:\projects\09_05\boxes\obj\Release\boxes.exe
+E:\projects\09_05\boxes\obj\Release\boxes.pdb
