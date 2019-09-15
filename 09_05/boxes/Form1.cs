@@ -43,7 +43,6 @@ namespace boxes
             RectangleF blr = new RectangleF(bl, box);
             RectangleF brr = new RectangleF(br, box);
 
-
             RectangleF[] rects = { c, tlr, trr, blr, brr };
 
             g.Clear(Color.White);

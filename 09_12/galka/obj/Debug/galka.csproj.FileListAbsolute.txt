@@ -1,0 +1,10 @@
+D:\9V\khorsun_dv\09_05\09_12\galka\obj\Debug\galka.csprojAssemblyReference.cache
+D:\9V\khorsun_dv\09_05\09_12\galka\obj\Debug\galka.Properties.Resources.resources
+D:\9V\khorsun_dv\09_05\09_12\galka\obj\Debug\galka.csproj.GenerateResource.cache
+D:\9V\khorsun_dv\09_05\09_12\galka\obj\Debug\galka.csproj.CoreCompileInputs.cache
+D:\9V\khorsun_dv\09_05\09_12\galka\bin\Debug\galka.exe.config
+D:\9V\khorsun_dv\09_05\09_12\galka\bin\Debug\galka.exe
+D:\9V\khorsun_dv\09_05\09_12\galka\bin\Debug\galka.pdb
+D:\9V\khorsun_dv\09_05\09_12\galka\obj\Debug\galka.exe
+D:\9V\khorsun_dv\09_05\09_12\galka\obj\Debug\galka.pdb
+D:\9V\khorsun_dv\09_05\09_12\galka\obj\Debug\galka.Form.resources

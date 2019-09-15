@@ -1,0 +1,10 @@
+D:\9V\khorsun_dv\09_05\09_12\09_12\bin\Debug\09_12.exe.config
+D:\9V\khorsun_dv\09_05\09_12\09_12\bin\Debug\09_12.exe
+D:\9V\khorsun_dv\09_05\09_12\09_12\bin\Debug\09_12.pdb
+D:\9V\khorsun_dv\09_05\09_12\09_12\obj\Debug\Graphics.csprojAssemblyReference.cache
+D:\9V\khorsun_dv\09_05\09_12\09_12\obj\Debug\_09_12.Form.resources
+D:\9V\khorsun_dv\09_05\09_12\09_12\obj\Debug\_09_12.Properties.Resources.resources
+D:\9V\khorsun_dv\09_05\09_12\09_12\obj\Debug\Graphics.csproj.GenerateResource.cache
+D:\9V\khorsun_dv\09_05\09_12\09_12\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+D:\9V\khorsun_dv\09_05\09_12\09_12\obj\Debug\09_12.exe
+D:\9V\khorsun_dv\09_05\09_12\09_12\obj\Debug\09_12.pdb
