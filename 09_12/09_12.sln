@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stairs", "09_12\Stairs.csproj", "{E2E50D11-1599-4D01-BEB7-AC56083A2AA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stairs", "Stairs\Stairs.csproj", "{E2E50D11-1599-4D01-BEB7-AC56083A2AA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ellipses", "Lines\Ellipses.csproj", "{E7FF47D9-BF9E-4840-8F98-4459E1F212A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ellipses", "Ellipses\Ellipses.csproj", "{E7FF47D9-BF9E-4840-8F98-4459E1F212A8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "galka", "galka\galka.csproj", "{B172AD9A-98DC-41DC-BCC4-564809A5A8E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lines", "Lines1\Lines.csproj", "{443B832E-B536-49C7-B2E5-977C099101B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lines", "Lines\Lines.csproj", "{443B832E-B536-49C7-B2E5-977C099101B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lines.Properties
+namespace Lines1.Properties
 {
 
 

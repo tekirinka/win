@@ -1,0 +1,9 @@
+D:\9V\khorsun_dv\09_05\09_12\Lines\obj\Debug\Lines.Form.resources
+D:\9V\khorsun_dv\09_05\09_12\Lines\obj\Debug\Lines.Properties.Resources.resources
+D:\9V\khorsun_dv\09_05\09_12\Lines\obj\Debug\Lines.csproj.GenerateResource.cache
+D:\9V\khorsun_dv\09_05\09_12\Lines\obj\Debug\Lines.csproj.CoreCompileInputs.cache
+D:\9V\khorsun_dv\09_05\09_12\Lines\bin\Debug\Lines.exe.config
+D:\9V\khorsun_dv\09_05\09_12\Lines\bin\Debug\Lines.exe
+D:\9V\khorsun_dv\09_05\09_12\Lines\bin\Debug\Lines.pdb
+D:\9V\khorsun_dv\09_05\09_12\Lines\obj\Debug\Lines.exe
+D:\9V\khorsun_dv\09_05\09_12\Lines\obj\Debug\Lines.pdb

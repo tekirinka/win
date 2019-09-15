@@ -8,3 +8,5 @@ D:\9V\khorsun_dv\09_05\09_12\galka\bin\Debug\galka.pdb
 D:\9V\khorsun_dv\09_05\09_12\galka\obj\Debug\galka.exe
 D:\9V\khorsun_dv\09_05\09_12\galka\obj\Debug\galka.pdb
 D:\9V\khorsun_dv\09_05\09_12\galka\obj\Debug\galka.Form.resources
+D:\projects\09_12\galka\obj\Debug\galka.exe
+D:\projects\09_12\galka\obj\Debug\galka.pdb

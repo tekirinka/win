@@ -1,0 +1,10 @@
+D:\projects\09_12\09_12\obj\Debug\09_12.exe
+D:\projects\09_12\09_12\obj\Debug\09_12.pdb
+D:\projects\09_12\09_12\bin\Debug\09_12.exe.config
+D:\projects\09_12\09_12\bin\Debug\09_12.exe
+D:\projects\09_12\09_12\bin\Debug\09_12.pdb
+D:\projects\09_12\09_12\obj\Debug\Stairs.csprojAssemblyReference.cache
+D:\projects\09_12\09_12\obj\Debug\_09_12.Form.resources
+D:\projects\09_12\09_12\obj\Debug\_09_12.Properties.Resources.resources
+D:\projects\09_12\09_12\obj\Debug\Stairs.csproj.GenerateResource.cache
+D:\projects\09_12\09_12\obj\Debug\Stairs.csproj.CoreCompileInputs.cache

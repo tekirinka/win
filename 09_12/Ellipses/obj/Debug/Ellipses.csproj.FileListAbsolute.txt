@@ -1,0 +1,2 @@
+D:\projects\09_12\Lines\obj\Debug\Lines.exe
+D:\projects\09_12\Lines\obj\Debug\Lines.pdb
