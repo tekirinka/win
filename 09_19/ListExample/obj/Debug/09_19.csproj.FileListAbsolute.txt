@@ -1,0 +1,10 @@
+F:\projects\ListBox\09_19\bin\Debug\09_19.exe.config
+F:\projects\ListBox\09_19\bin\Debug\09_19.exe
+F:\projects\ListBox\09_19\bin\Debug\09_19.pdb
+F:\projects\ListBox\09_19\obj\Debug\09_19.csprojAssemblyReference.cache
+F:\projects\ListBox\09_19\obj\Debug\_09_19.Form.resources
+F:\projects\ListBox\09_19\obj\Debug\_09_19.Properties.Resources.resources
+F:\projects\ListBox\09_19\obj\Debug\09_19.csproj.GenerateResource.cache
+F:\projects\ListBox\09_19\obj\Debug\09_19.csproj.CoreCompileInputs.cache
+F:\projects\ListBox\09_19\obj\Debug\09_19.exe
+F:\projects\ListBox\09_19\obj\Debug\09_19.pdb

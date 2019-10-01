@@ -1,0 +1,10 @@
+C:\Users\mdim\source\repos\09_25\HW\bin\Debug\HW.exe.config
+C:\Users\mdim\source\repos\09_25\HW\bin\Debug\HW.exe
+C:\Users\mdim\source\repos\09_25\HW\bin\Debug\HW.pdb
+C:\Users\mdim\source\repos\09_25\HW\obj\Debug\HW.csprojAssemblyReference.cache
+C:\Users\mdim\source\repos\09_25\HW\obj\Debug\HW.Properties.Resources.resources
+C:\Users\mdim\source\repos\09_25\HW\obj\Debug\HW.csproj.GenerateResource.cache
+C:\Users\mdim\source\repos\09_25\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
+C:\Users\mdim\source\repos\09_25\HW\obj\Debug\HW.exe
+C:\Users\mdim\source\repos\09_25\HW\obj\Debug\HW.pdb
+C:\Users\mdim\source\repos\09_25\HW\obj\Debug\HW.Form.resources

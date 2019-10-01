@@ -1,0 +1,10 @@
+F:\projects\09_19\SquareSum\bin\Debug\SquareSum.exe.config
+F:\projects\09_19\SquareSum\bin\Debug\SquareSum.exe
+F:\projects\09_19\SquareSum\bin\Debug\SquareSum.pdb
+F:\projects\09_19\SquareSum\obj\Debug\SquareSum.Form.resources
+F:\projects\09_19\SquareSum\obj\Debug\SquareSum.Properties.Resources.resources
+F:\projects\09_19\SquareSum\obj\Debug\SquareSum.csproj.GenerateResource.cache
+F:\projects\09_19\SquareSum\obj\Debug\SquareSum.csproj.CoreCompileInputs.cache
+F:\projects\09_19\SquareSum\obj\Debug\SquareSum.exe
+F:\projects\09_19\SquareSum\obj\Debug\SquareSum.pdb
+F:\projects\09_19\SquareSum\obj\Debug\SquareSum.csprojAssemblyReference.cache
