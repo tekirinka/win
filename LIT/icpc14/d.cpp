@@ -1,9 +1,9 @@
-#include <cstdio>
+#include <iostream>
 #include <string>
 
 int main()
 {
     int n;
     scanf("%i", &n);
-    printf("%i\n", n);
+    std::string str;
 }
