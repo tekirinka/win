@@ -1,3 +1,7 @@
 [submodule "9v"]
 	path = 9v
 	url = https://tekirinka@bitbucket.org/tekirinka/9v
+
+[submodule "wxTest"]
+	path = wxTest
+	url = https://tekirinka@bitbucket.org/tekirinka/wxTest
