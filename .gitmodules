@@ -4,4 +4,4 @@
 
 [submodule "wxTest"]
 	path = wxTest
-	url = https://tekirinka@bitbucket.org/tekirinka/wxTest
+	url = ssh://git@bitbucket.org/tekirinka/wxTest
