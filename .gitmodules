@@ -5,3 +5,6 @@
 [submodule "wxTest"]
 	path = wxTest
 	url = ssh://git@bitbucket.org/tekirinka/wxTest
+[submodule "9v-svelte"]
+	path = 9v-svelte
+	url = ssh://git@bitbucket.org/tekirinka/9v-svelte
